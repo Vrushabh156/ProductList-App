@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProductList_App</string>
+
+    <string name="intro_title1">Welcome to Product List</string>
+    <string name="intro_desc1">Explore an extensive catalog of products tailored to your needs. From daily essentials to unique finds, our app helps you discover and organize products effortlessly.</string>
+
+    <string name="intro_title2">Save Your Favorites</string>
+    <string name="intro_desc2">Build your personalized wish list with our "Save for Later" feature. Whether it\'s a must-have item or something you want to revisit, easily save and access it anytime.</string>
+
+    <string name="intro_title3">Seamless offline access</string>
+    <string name="intro_desc3">Stay organized, even when offline. Our app’s intelligent caching ensures your saved products and lists are available, whether you\'re on the go or  in areas without internet connectivity.</string>
+
+
 </resources>
