@@ -53,7 +53,9 @@ This project is an Android application that demonstrates the efficient use of mo
   
   ○ Lottie for Animations  
   
-  ○ Circular Progress Indicators for Loading States  
+  ○ Circular Progress Indicators for Loading States 
+
+  ○ Retrofit for API Calls
 
 ---
 
